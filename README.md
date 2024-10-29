@@ -1,9 +1,8 @@
-  <div class="container">
-        <header>
-            <h1>🌟 Text To Speech Converter 🌟</h1>
-            <p>Turn text into speech effortlessly with this responsive Text to Speech Converter! Built using HTML, CSS, and JavaScript, this project leverages the Web Speech API to convert text to voice, making it accessible across most modern browsers.</p>
-            <img src="images/banner.png" alt="Project Banner" style="width:100%; max-width: 600px;">
-        </header>
+#  🌟 Text To Speech Converter 🌟 
+
+  ![Screenshot](https://i.ibb.co/jDK4xrH/download.png) <!-- Replace this with a screenshot from your project if possible -->
+
+<p align="center"><strong>Turn text into speech effortlessly with this responsive Text to Speech Converter! Built using HTML, CSS, and JavaScript, this project leverages the Web Speech API to convert text to voice, making it accessible across most modern browsers.</strong></p>
         
   <section>
             <h2>🔥 Features</h2>
