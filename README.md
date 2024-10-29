@@ -1,13 +1,13 @@
-#  🌟 Text To Speech Converter 🌟 
+#   💬 Text To Speech Converter 
 
-  ![Screenshot](https://i.ibb.co/jDK4xrH/download.png) <!-- Replace this with a screenshot from your project if possible -->
+  ![Screenshot](https://i.ibb.co/Z6jTs2L/image.png) 
 
-<p align="center"><strong>Turn text into speech effortlessly with this responsive Text to Speech Converter! Built using HTML, CSS, and JavaScript, this project leverages the Web Speech API to convert text to voice, making it accessible across most modern browsers.</strong></p>
+<p align="center"><strong>Turn text into speech effortlessly with this responsive Text to Speech Converter!</strong></p>
         
   <section>
             <h2>🔥 Features</h2>
             <ul>
-                <li>🎙 <strong>Multiple Voice Selection</strong>: Choose from a variety of voices available on your browser.</li>
+                <li>🎙 <strong>Multiple Region Voice Selection</strong>: Choose from a variety of voices available on your browser.</li>
                 <li>🗣 <strong>Instant Text-to-Speech</strong>: Simply enter text, select a voice, and click "Listen"!</li>
                 <li>📱 <strong>Responsive Design</strong>: Works beautifully on desktops, tablets, and smartphones.</li>
                 <li>🎨 <strong>Customizable Styling</strong>: Modify the look and feel using CSS.</li>
@@ -21,6 +21,7 @@
 cd text-to-speech-converter</code></pre>
             <p><strong>Open the Project</strong><br>Open <code>index.html</code> in your preferred browser to start using the Text to Speech Converter.</p>
         </section>
+
 
   <section>
             <h2>🛠️ Technologies Used</h2>
@@ -44,34 +45,19 @@ cd text-to-speech-converter</code></pre>
             </table>
         </section>
 
-  <section>
-            <h2>📸 Screenshots</h2>
-            <h3>Desktop View</h3>
-            <img src="images/desktop-view.png" alt="Desktop View" style="width:100%; max-width: 600px;">
-            <h3>Mobile View</h3>
-            <img src="images/mobile-view.png" alt="Mobile View" style="width:100%; max-width: 600px;">
-        </section>
 
   <section>
             <h2>🎯 Usage</h2>
             <ol>
                 <li><strong>Type Text</strong>: Enter the text you want to convert to speech in the textarea.</li>
-                <li><strong>Select a Voice</strong>: Pick your preferred voice from the dropdown menu.</li>
+                <li><strong>Select a Voice</strong>: Pick your preferred country or regional voice from the dropdown menu.</li>
                 <li><strong>Click "Listen"</strong>: Hear your text spoken aloud!</li>
             </ol>
         </section>
 
-  <section>
-            <h2>📂 Project Structure</h2>
-            <ul>
-                <li><code>index.html</code> - Provides the structure and layout, including text input, voice selection dropdown, and listen button.</li>
-                <li><code>style.css</code> - Contains all the styles for the project, including a responsive layout and custom elements for a cohesive design.</li>
-                <li><code>script.js</code> - JavaScript file implementing the Web Speech API to load available voices, set the selected voice, and play the text aloud.</li>
-            </ul>
-        </section>
 
   <section>
-            <h2>🌱 Future Enhancements</h2>
+            <h2>🌱 Upgradation Ideas </h2>
             <ul>
                 <li><strong>Pitch & Speed Control</strong>: Add sliders to adjust voice pitch and rate.</li>
                 <li><strong>Language Filtering</strong>: Allow users to filter voices based on languages.</li>
@@ -84,17 +70,9 @@ cd text-to-speech-converter</code></pre>
             <p>Contributions are welcome! Fork this repository, make your changes, and submit a pull request. Ideas, bug reports, and new feature requests are also appreciated!</p>
         </section>
 
-  <section>
-            <h2>📜 License</h2>
-            <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
-        </section>
 
   <section>
             <h2>👏 Acknowledgements</h2>
             <p>Special thanks to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API">Web Speech API</a> for enabling accessible and easy text-to-speech functionality in web applications.</p>
         </section>
 
-  <footer>
-            <p>Enjoy using the Text to Speech Converter! Let us know your feedback or any features you'd like to see added! 🎉</p>
-        </footer>
-    </div>
