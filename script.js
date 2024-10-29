@@ -1,3 +1,4 @@
+//Using Web Speech API
 let speech = new SpeechSynthesisUtterance();
 
 let voices = [];
